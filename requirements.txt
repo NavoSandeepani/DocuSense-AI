@@ -1,0 +1,17 @@
+opencv-python
+pytesseract
+Pillow
+pandas
+numpy
+fastapi
+uvicorn
+streamlit
+python-dotenv
+transformers
+torch
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf2
+python-multipart
