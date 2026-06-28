@@ -1,4 +1,4 @@
-oopencv-python
+opencv-python
 pytesseract
 Pillow
 pandas
